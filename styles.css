@@ -1,14 +1,24 @@
 html {
     background-color: blue;
 }
- title {
-    color:red
- }
+
 img {
     align: center;
     max-width: 100%;
 }
 
-p {
-    color:aliceblue
+h1 {
+    color: red
+}
+
+.email {
+    color: greenyellow
+}
+
+.phone {
+    color:rgb(198, 163, 231)
+}
+
+a {
+    color:white
 }
